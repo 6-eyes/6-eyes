@@ -2,8 +2,7 @@
 
 ![](automation.gif)
 
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-<i class="fa-brands fa-linkedin"></i>
+<i class='fab fa-markdown'></i>
 <!--
 **xD-prateek/xD-prateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
