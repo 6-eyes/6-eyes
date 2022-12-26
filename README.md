@@ -5,10 +5,9 @@
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="linkedin.png" alt="linkedin" width="40"/>
 </a>
-
-
-
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/xD-prateek" target="_blank">
+<img src="github.png" alt="github" width="40"/>
+</a>
 
 
 
