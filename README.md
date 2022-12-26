@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello visitor! 👋
+### I am **Prateek**
 ![automation](automation.gif)
 
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
