@@ -8,8 +8,8 @@
 <a href="https://github.com/xD-prateek" target="_blank">
 <img src="github.jpg" alt="github" width="35"/>
 </a>
-<a href="https://github.com/xD-prateek" target="_blank">
-<img src="instagram.png" alt="instagram" width="40"/>
+<a href="https://www.instagram.com/__prateek.xd/" target="_blank">
+<img src="instagram.jpg" alt="instagram" width="40"/>
 </a>
 
 
