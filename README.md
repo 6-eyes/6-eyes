@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](automation.gif)
+![automation](automation.gif)
+
+<img src="linkedin.png" alt="linkedin" width="200"/>
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "https://in.linkedin.com/")    [Prateek Nanhorya](https://www.linkedin.com/in/prateek-nanhorya-a14919216/)
 
