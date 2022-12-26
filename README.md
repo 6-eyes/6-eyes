@@ -6,9 +6,11 @@
 <img src="linkedin.png" alt="linkedin" width="40"/>
 </a>
 <a href="https://github.com/xD-prateek" target="_blank">
+<img src="github.jpg" alt="github" width="40"/>
+</a>
+<a href="https://github.com/xD-prateek" target="_blank">
 <img src="github.jpg" alt="github" width="33"/>
 </a>
-
 
 
 <!--
