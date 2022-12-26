@@ -2,7 +2,9 @@
 
 ![](automation.gif)
 
-![linkedin](linkedin.svg)
+<i class="fa-brands fa-linkedin"></i>
+
+
 <!--
 **xD-prateek/xD-prateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
