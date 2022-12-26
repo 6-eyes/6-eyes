@@ -1,7 +1,21 @@
 ### Hello visitor! 👋
-### I am **Prateek**
+### I am **Prateek Nanhorya**
+
+😍 I love ROBOTICS
+㊙️ I like to code in C++
+🌟 I have worked with ROS and ROS2
+🎶 Setting up micro-controllers is FUN
+
+UnderGrad student @ 
+### 🏫 BITS Pilani, K.K. Birla, GOA Campus
+
+Huge fan of AUTOMATION. Always eager to learn and build new **softwares** and **hardwares** trustful enough to be relied upon.
+Quick Learner 🦾. Bringing forth a positive attitude to team up and collaborate in projects in Automation domain.
+
 ![automation](automation.gif)
 
+
+Contact me here!
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="linkedin.png" alt="linkedin" width="40"/>
 </a>
