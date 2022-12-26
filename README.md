@@ -2,9 +2,9 @@
 
 ![automation](automation.gif)
 
-<p><a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank" rel="noopener noreferrer">
+<p><a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="linkedin.png" alt="linkedin" width="40"/>
-</a>.</p>
+</a></p>
 
 <p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
 
