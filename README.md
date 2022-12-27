@@ -18,13 +18,13 @@ Quick Learner 🦾. Bringing forth a positive attitude to team up and collaborat
 
 Contact me here!
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
-<img src="linkedin.png" alt="linkedin" width="40"/>
+<img src="icons/linkedin.png" alt="linkedin" width="40"/>
 </a>
 <a href="https://github.com/xD-prateek" target="_blank">
-<img src="github.jpg" alt="github" width="35"/>
+<img src="icons/github.jpg" alt="github" width="35"/>
 </a>
 <a href="https://www.instagram.com/__prateek.xd/" target="_blank">
-<img src="instagram.jpg" alt="instagram" width="40"/>
+<img src="icons/instagram.jpg" alt="instagram" width="40"/>
 </a>
 
 
