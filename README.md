@@ -5,10 +5,11 @@
 
 ![Welcome](git_cover.png)
 
-😍 I love ROBOTICS  
-㊙️ I like to code in C++  
-🌟 I have worked with ROS and ROS2  
-🎶 Setting up micro-controllers is FUN  
+**Something about me...**  
+😍 ...I love ROBOTICS  
+㊙️ ...I like to code in C++  
+🌟 ...I have worked with ROS and ROS2  
+🎶 ...Setting up micro-controllers is FUN  
   
   
 UnderGrad student @ 
