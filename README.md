@@ -3,7 +3,7 @@
 ### I am **Prateek Nanhorya**
 -->
 
-![Welcome][git_cover.png]
+![git_cover][git_cover.png]
 
 😍 I love ROBOTICS  
 ㊙️ I like to code in C++  
