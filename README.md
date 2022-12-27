@@ -1,11 +1,12 @@
 ### Hello visitor! 👋
 ### I am **Prateek Nanhorya**
 
-😍 I love ROBOTICS
-㊙️ I like to code in C++
-🌟 I have worked with ROS and ROS2
-🎶 Setting up micro-controllers is FUN
-
+😍 I love ROBOTICS  
+㊙️ I like to code in C++  
+🌟 I have worked with ROS and ROS2  
+🎶 Setting up micro-controllers is FUN  
+  
+  
 UnderGrad student @ 
 ### 🏫 BITS Pilani, K.K. Birla, GOA Campus
 
