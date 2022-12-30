@@ -22,7 +22,7 @@ Quick Learner 🦾. Bringing forth a positive attitude to team up and collaborat
 ![automation](automation.gif)
 
 
-Connect with me here!
+Connect with me here!  
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="icons/linkedin.png" alt="linkedin" width="40"/>
 </a>
