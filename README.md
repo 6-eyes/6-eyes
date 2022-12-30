@@ -36,7 +36,7 @@ Connect with me here!
 <img src="icons/instagram.jpg" alt="instagram" width="40"/>
 </a>
 <a href="https://www.facebook.com/prateek.nanhorya.2000/" target="_blank">
-<img src="icons/facebook.png" alt="facebook" width="40"/>
+<img src="icons/facebook.png" alt="facebook" width="35"/>
 </a>
 
 
