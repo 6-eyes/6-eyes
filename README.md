@@ -10,6 +10,7 @@
 ㊙️ ...I like to code in C++  
 🌟 ...I have worked with ROS and ROS2  
 🎶 ...Setting up micro-controllers is FUN  
+💚 ...Love LINUX  
   
   
 UnderGrad student @ 
