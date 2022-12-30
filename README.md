@@ -32,6 +32,9 @@ Connect with me here!
 <a href="https://stackoverflow.com/users/20893674/xd-prateek" target="_blank">
 <img src="icons/stack-overflow.png" alt="stack-overflow" width="40"/>
 </a>
+<a href="https://discordapp.com/users/751843447014555748" target="_blank">
+<img src="icons/discord.png" alt="discord" width="40"/>
+</a>
 <a href="https://www.instagram.com/__prateek.xd/" target="_blank">
 <img src="icons/instagram.jpg" alt="instagram" width="40"/>
 </a>
