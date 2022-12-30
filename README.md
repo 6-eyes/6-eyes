@@ -29,11 +29,14 @@ Contact me here!
 <a href="https://github.com/xD-prateek" target="_blank">
 <img src="icons/github.jpg" alt="github" width="35"/>
 </a>
+<a href="https://stackoverflow.com/users/20893674/xd-prateek" target="_blank">
+<img src="icons/stack-overflow.png" alt="stack-overflow" width="40"/>
+</a>
 <a href="https://www.instagram.com/__prateek.xd/" target="_blank">
 <img src="icons/instagram.jpg" alt="instagram" width="40"/>
 </a>
-<a href="https://stackoverflow.com/users/20893674/xd-prateek" target="_blank">
-<img src="icons/stack-overflow.png" alt="stack-overflow" width="40"/>
+<a href="https://www.facebook.com/prateek.nanhorya.2000/" target="_blank">
+<img src="icons/facebook.png" alt="facebook" width="40"/>
 </a>
 
 
