@@ -14,7 +14,7 @@
 
 ---  
   
-UnderGrad student @ 
+**UnderGrad student @** 
 ### 🏫 BITS Pilani, K.K. Birla, GOA Campus
 
 Huge fan of AUTOMATION. Always eager to learn and build new **softwares** and **hardwares** trustful enough to be relied upon.
