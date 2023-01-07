@@ -11,7 +11,8 @@
 🌟 ...I have worked with ROS and ROS2  
 🎶 ...Setting up micro-controllers is FUN  
 💚 ...Love LINUX  
-  
+
+---  
   
 UnderGrad student @ 
 ### 🏫 BITS Pilani, K.K. Birla, GOA Campus
@@ -21,7 +22,7 @@ Quick Learner 🦾. Bringing forth a positive attitude to team up and collaborat
 
 ![automation](automation.gif)
 
-
+---  
 Connect with me here!  
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="icons/linkedin.png" alt="linkedin" width="40"/>
