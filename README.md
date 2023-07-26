@@ -7,7 +7,7 @@
 
 **Something about me...**  
 😍 ...I love ROBOTICS  
-㊙️ ...I like to code in C++  
+㊙️ ...I like to code in RUST/C++  
 🌟 ...I have worked with ROS and ROS2  
 🎶 ...Setting up micro-controllers is FUN  
 💚 ...Love LINUX  
