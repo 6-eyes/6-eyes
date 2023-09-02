@@ -23,7 +23,7 @@ Quick Learner 🦾. Bringing forth a positive attitude to team up and collaborat
 ![automation](automation.gif)
 
 ---  
-Connect with me here!  
+Connect/Follow me here!  
 <a href="https://www.linkedin.com/in/prateek-nanhorya-a14919216/" target="_blank">
 <img src="icons/linkedin.png" alt="linkedin" width="40"/>
 </a>
@@ -41,6 +41,9 @@ Connect with me here!
 </a>
 <a href="https://www.facebook.com/prateek.nanhorya.2000/" target="_blank">
 <img src="icons/facebook.png" alt="facebook" width="35"/>
+</a>
+<a href="https://gitlab.com/xD-prateek" target="_blank">
+<img src="icons/gitlab-logo.png" alt="facebook" width="35"/>
 </a>
 
 
