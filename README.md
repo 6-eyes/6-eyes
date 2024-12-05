@@ -8,13 +8,13 @@
 **Something about me...**  
 😍 ...I love ROBOTICS  
 ㊙️ ...I like to code in RUST/C++  
-🌟 ...I have worked with ROS and ROS2  
+🌟 ...This led to bare metal programming.  
 🎶 ...Setting up micro-controllers is FUN  
-💚 ...Love LINUX  
+💚 ...Can't imagine life without LINUX  
 
 ---  
   
-**UnderGrad student @** 
+**Graduated From @** 
 ### 🏫 BITS Pilani, K.K. Birla, GOA Campus
 
 Huge fan of AUTOMATION. Always eager to learn and build new **softwares** and **hardwares** trustful enough to be relied upon.
